@@ -1,3 +1,7 @@
+.Mobile-overlay-nav-item:nth-child(7) {
+display: none !important;
+}
+
 .Header-nav-item:last-child {
 background: #2753a3 !important;
 padding: 15px !important;
